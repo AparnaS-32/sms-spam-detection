@@ -33,9 +33,9 @@ The project generates a confusion matrix visualization saved as `confusion_matri
 
 ## How to Run
 1. Install the required libraries:
-   `python -m pip install pandas scikit-learn matplotlib`
+   `py -m pip install pandas scikit-learn matplotlib`
 2. Run the project:
-   `python main.py`
+   `py main.py`
 
 ## Author
 Aparna S
